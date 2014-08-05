@@ -5,5 +5,10 @@
   "devDependencies": {
     "grunt-simple-mocha": "~0.4.0",
     "grunt": "~0.4.2"
+  },
+
+  "simple_grunt": {
+    "type": "git",
+    "url": "git://github.com/jstraume/simple_grunt.git"
   }
 }
